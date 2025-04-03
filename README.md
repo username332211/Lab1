@@ -19,4 +19,4 @@ Projekt sadrži sljedeće prioritete, te viši prioriteti mogu prekinuti niže:
 - d) Tipkalo INT2
 - e) Senzor udaljenosti
 
-Tipkala INT0, INT1 i INT2 titraju svakih 100ms unutar jedne pune sekunde, dok LED dioda koja se odnosi na senzor svijetlosti titra svakih 200 ms. LED dioda koja se odnosi na timer se pali svaku jednu sekundu, te pošto ima najveći prioritet, na kratko vrijeme prekida sve druge LED diode.
+LED diode INT0, INT1 i INT2 titraju svakih 100ms unutar jedne pune sekunde, dok LED dioda koja se odnosi na senzor svijetlosti titra svakih 200 ms. Nadalje, LED dioda koja se odnosi na timer se pali svaku jednu sekundu, te pošto ima najveći prioritet, na kratko vrijeme prekida sve druge LED diode.
