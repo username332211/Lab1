@@ -1,4 +1,4 @@
-# Lab1 - Prekidi
+# Ugradbeni Sustavi - Prekidi
 
 ## 1. Opis zadatka
 Cilj zadatka je implementacija prekida u ugradbenim sustavima, konkretno koristeći Arduino Mega mikrokontroler. Projekt uključuje detekciju pritisaka tipkala s implementiranim prioritetima, generiranje prekida pomoću timer-a, te mjerenje udaljenosti.
